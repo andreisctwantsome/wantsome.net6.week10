@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp.Week10
 {
-    class ClassV1
+    class ClassV2
     {
     }
 }
